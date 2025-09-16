@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: a8c6e3e06a2e95142b17acd8c4bc45f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8116797798939714939
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._0
+  - first:
+      213: 2983388174608436371
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._1
+  - first:
+      213: -3303968080376493435
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._2
+  - first:
+      213: -195144408247095900
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._3
+  - first:
+      213: 2704097933581277066
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._4
+  - first:
+      213: -922009244995676168
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._5
+  - first:
+      213: 4682389066458825527
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._6
+  - first:
+      213: 6143911539044860303
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._7
+  - first:
+      213: -5096154528886022980
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._8
+  - first:
+      213: -6193877425782200734
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._9
+  - first:
+      213: -1229193521715395509
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._10
+  - first:
+      213: -1579389798187406047
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._11
+  - first:
+      213: 4518019288290736935
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._12
+  - first:
+      213: -6864223346535302163
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._13
+  - first:
+      213: -8847979603647833411
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._14
+  - first:
+      213: 8709687731429541431
+    second: ChatGPT Image 19 may 2025, 02_08_21 p.m._15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antorcha_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 689
+        width: 123
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d6a27bbc177f42b612f3a66302a0a
+      internalID: -1536040697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 691
+        width: 139
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32117e20213ed46b10374a1d8ba475
+      internalID: 1408488798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 688
+        width: 131
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699c7648109be144abace1e0b70b631e
+      internalID: -1209692178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 691
+        width: 136
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52281964e89841942a723a1ba28695a6
+      internalID: -1920786265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 377
+        width: 121
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496f58b6dd1edec45b4ef4003b203efd
+      internalID: 130732611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 658
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9100357e1e64f469821141c6ffbb7d
+      internalID: 856085889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 376
+        width: 143
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77819483fe2c5da47ab3f6b40332f4d3
+      internalID: 81442983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 377
+        width: 132
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb34aa9558774d34a90d2dba31c9b278
+      internalID: 559100586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 378
+        width: 135
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f11849a07996a4183c86205b374883
+      internalID: -286383892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 664
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45850389df2cb574096958505fcdd781
+      internalID: 931744132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 53
+        width: 132
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec91191ba9597e46be57c3ac14a5f4a
+      internalID: 1213013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 56
+        width: 145
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898e731bced58d46bae905136345f4a
+      internalID: -425493052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 56
+        width: 134
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f795280c40a0438a06b8e20450fe9
+      internalID: 587702325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 56
+        width: 134
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46140ea1f103ea489a77182a21b0f13
+      internalID: 1784523276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antorcha_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 274
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f08c7725d12c84eb3ee04cce09fd39
+      internalID: 1645921347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 735e7b7bdafaa4f4b8468df22844172b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Antorcha_0: -1536040697
+      Antorcha_1: 1408488798
+      Antorcha_10: 1213013304
+      Antorcha_11: -425493052
+      Antorcha_12: 587702325
+      Antorcha_13: 1784523276
+      Antorcha_14: 1645921347
+      Antorcha_2: -1209692178
+      Antorcha_3: -1920786265
+      Antorcha_4: 130732611
+      Antorcha_5: 856085889
+      Antorcha_6: 81442983
+      Antorcha_7: 559100586
+      Antorcha_8: -286383892
+      Antorcha_9: 931744132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
